@@ -11,5 +11,5 @@ I will probably use gained knowledge of the Lua language to create an actual use
 <img src="./resources/vlc_ext_install.jpg" align="center">
 
 ## Screenshot
-
 <img src="./resources/useless_extension_screenshot.jpg" align="center">
+<img src="./resources/useless_extension_screenshot_2.jpg" align="top">
