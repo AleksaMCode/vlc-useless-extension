@@ -5,7 +5,7 @@
 
 I will probably use gained knowledge of the Lua language to create an actual useful extension in the future. </p>
 
-## Installation
+## Installation (Windows)
 <p align="justify">In order to install the extension in .lua go to the file path <i>C:\Program Files\VideoLAN\VLC\lua</i>. Inside the lua folder, create another folder by name “extensions”. Now copy the “useless.lua” file inside it. Once the lua file is copied, the extension will be uploaded and installed.</p>
 
 <img src="./resources/vlc_ext_install.jpg" align="center">
